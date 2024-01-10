@@ -1,6 +1,6 @@
-# Jittor—$beta$VAE
+# Jittor—beta-VAE
 
-清华大学“媒体计算”课程大作业，基于jittor实现$beta$VAE
+清华大学“媒体计算”课程大作业，基于jittor实现beta-VAE
 
 ## Reference
 
@@ -8,7 +8,6 @@
 
 - [变分自编码器（一）：原来是这么一回事 - 科学空间|Scientific Spaces](https://spaces.ac.cn/archives/5253)
 - [令人拍案叫绝的Wasserstein GAN - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/25071913)
-
 
 ### 代码
 
